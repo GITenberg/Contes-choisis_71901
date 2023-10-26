@@ -1,0 +1,38 @@
+_repo: Contes-choisis_71901
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lautrec, Gabriel de
+    gutenberg_agent_id: '56452'
+    url: http://www.gutenberg.org/2009/agents/56452
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2023-10-18'
+identifiers:
+  gutenberg: '71901'
+language: fr
+pgterms:marc904: https://archive.org/details/conteschoisis00twaiiala
+pgterms:marc905: 20230128092508twain
+pgterms:marc906: '1922'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel, Chuck Greif and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aParis :$bNelson, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Contes choisis
+url: http://www.gutenberg.org/ebooks/71901
