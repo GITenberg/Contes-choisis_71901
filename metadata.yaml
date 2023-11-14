@@ -5,6 +5,9 @@ contributor:
     agent_name: Lautrec, Gabriel de
     gutenberg_agent_id: '56452'
     url: http://www.gutenberg.org/2009/agents/56452
+covers:
+- cover_type: archival
+  image_path: 71901-h/images/cover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71901#Contes-choisis
 gutenberg_issued: '2023-10-18'
 identifiers:
   gutenberg: '71901'
